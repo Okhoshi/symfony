@@ -6,6 +6,7 @@ CHANGELOG
 
  * Add support for assets pre-compression
  * Rename `TranslationUpdateCommand` to `TranslationExtractCommand`
+ * Make `ValidatorCacheWarmer` use `kernel.build_dir` instead of `cache_dir`
 
 7.2
 ---
